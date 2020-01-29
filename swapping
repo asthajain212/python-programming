@@ -1,0 +1,7 @@
+a=int(input("ener the first n0"))
+b=int(input("enter the second no"))
+c=a
+a=b
+b=c
+print("first no after swaping",a)
+print("second no after swaping",b)
